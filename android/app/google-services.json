@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511299424573",
+    "project_id": "skyluxury-aabfc",
+    "storage_bucket": "skyluxury-aabfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511299424573:android:ce1a264eee6db54275f554",
+        "android_client_info": {
+          "package_name": "com.example.sky_luxury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511299424573-os0kjtkd5m797068mpbc4k3u9rviq9qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIqmnJCCcrKZmdPHg3AumFzbB_skPQ6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511299424573-os0kjtkd5m797068mpbc4k3u9rviq9qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

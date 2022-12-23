@@ -11,7 +11,7 @@ class ConversationRepo {
   FirebaseFirestore firestore = FirebaseFirestore.instance;
   ChatRepository chatRepository = ChatRepository();
 
-  Stream<List<Conversation>> getConversationById(String uid) {
+  Stream<List<Conversation>>  getConversationById(String uid) {
     print('$uid');
     CollectionReference<Map<String, dynamic>> messg =
         firestore.collection(Strings.messagesColl);
